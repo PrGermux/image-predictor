@@ -1,0 +1,1 @@
+pyinstaller --onedir --windowed --icon=icon.png --add-data "icon.png;." --add-data "10kx_weights.pth;." --exclude-module tensorflow --hidden-import=scipy.special._cdflib --hidden-import=matplotlib.backends.backend_qt5agg --hidden-import=pandas._libs.tslibs.timedeltas --name "Superconductivity Predictor" main.py
