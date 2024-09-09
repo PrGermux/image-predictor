@@ -37,7 +37,11 @@ This tool is useful for scenarios where both visual and text data need to be ana
   <img src="https://github.com/user-attachments/assets/c88eeced-ee27-4539-9217-cd8d57e76338"/>
 </p>
 
-## Usage
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22c733c0-f1ff-4626-8cc1-d385c350b00a" style="width:800px;">
+</p>
+
 **WARNING:** This program works only with images and text inputs formatted specifically for the neural network. Users must follow the image processing and input instructions carefully.
 
 Run the main application:
